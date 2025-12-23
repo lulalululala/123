@@ -1,0 +1,7 @@
+{
+  "name": "Geometric Christmas Tree",
+  "description": "A stunning interactive 3D Christmas tree with gesture control support using MediaPipe, featuring particle systems, post-processing effects, and dynamic animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
